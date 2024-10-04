@@ -112,13 +112,13 @@ The application allows users to register with their name, email, phone number, a
 ## Screenshots
 Include screenshots demonstrating each step of the process here.
 
-1. SSH Login: ![Screenshot-1](screenshots/Screenshot-1(ssh).png)
-2. Repository Cloning: ![Screenshot-2](screenshots/Screenshot-2(clone).png)
-3. Copying Files: ![Screenshot-3](screenshots/Screenshot-3(copy).png)
-4. Starting Apache: ![Screenshot-4](screenshots/Screenshot-4(httpd).png)
-5. Accessing Web Page: ![Screenshot-5](screenshots/Screenshot-5(webpage).png)
-6. Creating Database: ![Screenshot-9](screenshots/Screenshot-9(create_db).png)
-7. Creating Table: ![Screenshot-10](screenshots/Screenshot-10(table).png)
+1. SSH Login: ![Screenshot-1](Screenshots/Screenshot-1(ssh).png)
+2. Repository Cloning: ![Screenshot-2](Screenshots/Screenshot-2(clone).png)
+3. Copying Files: ![Screenshot-3](Screenshots/Screenshot-3(copy).png)
+4. Starting Apache: ![Screenshot-4](Screenshots/Screenshot-4(httpd).png)
+5. Accessing Web Page: ![Screenshot-5](Screenshots/Screenshot-5(webpage).png)
+6. Creating Database: ![Screenshot-9](Screenshots/Screenshot-9(create_db).png)
+7. Creating Table: ![Screenshot-10](Screenshots/Screenshot-10(table).png)
 
 ## Conclusion
 This document outlines the steps taken to successfully deploy a web application on a cloud VM. The application features user registration with data stored securely in a MariaDB database.
