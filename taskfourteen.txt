@@ -110,5 +110,5 @@ Running a database server with --skip-grant-tables poses a significant security 
 - Public IP: 44.211.206.95
 
 ## Step 12: Document Findings
-- Noted down the public IP address and shared it for verification with peers[shared with shafeek].
+- Noted down the public IP address and shared it for verification with peers[shared with arun].
 - Screenshot: [screenshot-5(webpage)]
