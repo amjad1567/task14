@@ -116,7 +116,7 @@ Include screenshots demonstrating each step of the process here.
 2. Repository Cloning: ![Screenshot-2](Screenshot-2(clone).png)
 3. Copying Files: ![Screenshot-3](Screenshot-3(copy).png)
 4. Starting Apache: ![Screenshot-4](Screenshot-4(httpd).png)
-5. Accessing Web Page: ![Screenshot-5](Screenshot-5(webpage).png)
+5. Accessing Web Page: ![Screenshot-5](screenshot-5(webpage).png)
 6. Creating Database: ![Screenshot-9](Screenshot-9(create_db).png)
 7. Creating Table: ![Screenshot-10](Screenshot-10(table).png)
 
