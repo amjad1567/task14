@@ -32,7 +32,7 @@ This repository contains the steps and scripts to deploy a web application on a 
 ### Step 2: Clone Repository
 - Cloned the repository from GitHub:
   ```bash
-  git clone https://github.com/AbhiramT21/webapp
+  git clone https://github.com/amjad1567/webapp
   ```
 
 ### Step 3: Copy Files to Apache Root Folder
@@ -112,13 +112,13 @@ The application allows users to register with their name, email, phone number, a
 ## Screenshots
 Include screenshots demonstrating each step of the process here.
 
-1. SSH Login: ![Screenshot-1](Screenshots/Screenshot-1(ssh).png)
-2. Repository Cloning: ![Screenshot-2](Screenshots/Screenshot-2(clone).png)
-3. Copying Files: ![Screenshot-3](Screenshots/Screenshot-3(copy).png)
-4. Starting Apache: ![Screenshot-4](Screenshots/Screenshot-4(httpd).png)
-5. Accessing Web Page: ![Screenshot-5](Screenshots/Screenshot-5(webpage).png)
-6. Creating Database: ![Screenshot-9](Screenshots/Screenshot-9(create_db).png)
-7. Creating Table: ![Screenshot-10](Screenshots/Screenshot-10(table).png)
+1. SSH Login: ![Screenshot-1](Screenshot-1(ssh).png)
+2. Repository Cloning: ![Screenshot-2](Screenshot-2(clone).png)
+3. Copying Files: ![Screenshot-3](Screenshot-3(copy).png)
+4. Starting Apache: ![Screenshot-4](Screenshot-4(httpd).png)
+5. Accessing Web Page: ![Screenshot-5](Screenshot-5(webpage).png)
+6. Creating Database: ![Screenshot-9](Screenshot-9(create_db).png)
+7. Creating Table: ![Screenshot-10](Screenshot-10(table).png)
 
 ## Conclusion
 This document outlines the steps taken to successfully deploy a web application on a cloud VM. The application features user registration with data stored securely in a MariaDB database.
