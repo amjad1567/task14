@@ -10,7 +10,7 @@
 - Cloned the repository from my GitHub.
 - Command:
 
-  * git clone https://github.com/AbhiramT21/webapp
+  * git clone https://github.com/amjad1567/webapp
 - Screenshot:  [Screenshot-2(clone).png]
 
 ## Step 3: Copy Files to Apache Root Folder
