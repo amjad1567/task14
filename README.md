@@ -112,7 +112,7 @@ The application allows users to register with their name, email, phone number, a
 ## Screenshots
 Include screenshots demonstrating each step of the process here.
 
-1. SSH Login: ![Screenshot-1](Screenshot-1(ssh).png)
+1. SSH Login: ![Screenshot-1](screenshot-1(ssh).png)
 2. Repository Cloning: ![Screenshot-2](Screenshot-2(clone).png)
 3. Copying Files: ![Screenshot-3](Screenshot-3(copy).png)
 4. Starting Apache: ![Screenshot-4](Screenshot-4(httpd).png)
